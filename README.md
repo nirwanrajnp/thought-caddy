@@ -43,8 +43,8 @@ cd thoughtcaddy
 
 ### 2. Open in Android Studio
 
-- Minimum SDK: 24 (Android 7.0)
-- Target SDK: 34+
+- Minimum SDK: 29 (Android 10.0)
+- Target SDK: 36
 
 ### 3. Configure Firebase
 
