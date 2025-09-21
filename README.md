@@ -37,7 +37,7 @@ Built with **Kotlin**, **Jetpack Compose**, **Firebase**, and **serverless AI su
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/thoughtcaddy.git
+git clone https://github.com/nirwanrajnp/thoughtcaddy.git
 cd thoughtcaddy
 ```
 
