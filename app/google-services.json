@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265435186297",
+    "project_id": "thought-caddy",
+    "storage_bucket": "thought-caddy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265435186297:android:3df4a071b8e45b6c2140a8",
+        "android_client_info": {
+          "package_name": "com.nirwanrn.thoughtcaddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBN5P-hfufvQGyO29ZW40165_pEFD_at0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
