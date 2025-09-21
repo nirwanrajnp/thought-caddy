@@ -20,7 +20,13 @@ Built with **Kotlin**, **Jetpack Compose**, **Firebase**, and **serverless AI su
 
 # Screenshots
 
-*(Add screenshots here once you capture them from the app — place them in `/assets` and reference here.)*
+<p float="left">
+  <img src="screenshots/screenshot-about-page.jpeg" width="200" />
+  <img src="screenshots/screenshot-login.jpeg" width="200" />
+  <img src="screenshots/screenshot-empty-journal.jpeg" width="200" /> 
+  <img src="screenshots/screenshot-journal-entry.jpeg" width="200" />
+  <img src="screenshots/screenshot-new-entry.jpeg" width="200" />
+</p>
 
 ---
 
