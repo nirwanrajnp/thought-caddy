@@ -20,15 +20,11 @@ All notable changes to this project will be documented in this file.
     - Add (+) new entry
     - About section
 - Profile modal with logout button.
-
-### Improved
-- New app logo and branding.
-- Better UI components for About screen.
+- Cloud sync across devices.
 
 ### Coming Soon
 - Search through journal entries.
 - Biometric lock for enhanced security.
-- Cloud sync across devices.
 
 ---
 
