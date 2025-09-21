@@ -23,7 +23,6 @@ Built with **Kotlin**, **Jetpack Compose**, **Firebase**, and **serverless AI su
 <p float="left">
   <img src="screenshots/screenshot-about-page.jpeg" width="200" />
   <img src="screenshots/screenshot-login.jpeg" width="200" />
-  <img src="screenshots/screenshot-empty-journal.jpeg" width="200" /> 
   <img src="screenshots/screenshot-journal-entry.jpeg" width="200" />
   <img src="screenshots/screenshot-new-entry.jpeg" width="200" />
 </p>
