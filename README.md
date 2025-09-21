@@ -42,8 +42,8 @@ Built with **Kotlin**, **Jetpack Compose**, **Firebase**, and **serverless AI su
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nirwanrajnp/thoughtcaddy.git
-cd thoughtcaddy
+git clone https://github.com/nirwanrajnp/thought-caddy.git
+cd thought-caddy
 ```
 
 ### 2. Open in Android Studio
